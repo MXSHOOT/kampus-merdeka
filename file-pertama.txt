@@ -1,11 +1,1 @@
-Kampus Merdeka
-Kita disini sudah belajar 
--HTML
--CSS 
--JAVASCRIPT
-sekarang sedang belajar github
-
-- Pembuatan Akun
-
-- Kapan Materi UI/UXnya ?
-
+test
